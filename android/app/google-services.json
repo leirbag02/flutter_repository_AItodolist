@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573935506257",
+    "project_id": "todolistai-1c762",
+    "storage_bucket": "todolistai-1c762.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573935506257:android:de7d8ba14a5cb561977970",
+        "android_client_info": {
+          "package_name": "com.company.urndernaut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAktHegu36W8OiToPUxvW0PZrPxtgL3I2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
